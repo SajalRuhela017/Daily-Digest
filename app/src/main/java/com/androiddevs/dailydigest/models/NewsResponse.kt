@@ -1,4 +1,4 @@
-package com.androiddevs.dailydigest
+package com.androiddevs.dailydigest.models
 
 data class NewsResponse(
     val articles: List<Article>,

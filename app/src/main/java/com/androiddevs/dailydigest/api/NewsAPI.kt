@@ -1,6 +1,6 @@
 package com.androiddevs.dailydigest.api
 
-import com.androiddevs.dailydigest.NewsResponse
+import com.androiddevs.dailydigest.models.NewsResponse
 import com.androiddevs.dailydigest.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
